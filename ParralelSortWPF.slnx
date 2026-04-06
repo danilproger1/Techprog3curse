@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ParralelProg/ParralelProg/ParralelProg.csproj" />
+  <Project Path="WpfApp1/WpfApp1.csproj" Id="2900ea9e-3824-41ed-a02e-c44fe6ebd6d5" />
+</Solution>
